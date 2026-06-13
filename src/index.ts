@@ -9,6 +9,7 @@ export type {
   CompressionAlgorithm,
   CompressionAlgorithmWithOptions,
   CompressionPluginOptions,
+  IncludeExtraOptions,
   GzipAlgorithmWithOptions,
   ZstdAlgorithmWithOptions,
   ZstdOptions,
